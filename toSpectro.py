@@ -1,4 +1,4 @@
-#Reference : https://bab2min.tistory.com/642
+# Reference : https://bab2min.tistory.com/642
 import librosa
 import librosa.display
 import numpy as np
